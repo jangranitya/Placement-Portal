@@ -18,8 +18,6 @@
 - HTML
 - CSS
 - Javascript
-- Reat
-- Bootstrap
 - PHP
 - Mysql
 
